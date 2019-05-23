@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - exp_3",
+            "request": "launch",
+            "mainClass": "exp_3",
+            "projectName": "190422_64b6b29a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - exp_2",
+            "request": "launch",
+            "mainClass": "exp_2",
+            "projectName": "190422_64b6b29a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - exp_1",
+            "request": "launch",
+            "mainClass": "exp_1"
+        }
+    ]
+}

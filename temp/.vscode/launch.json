@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ProgramWithAnonymousListener",
+            "request": "launch",
+            "mainClass": "ProgramWithAnonymousListener",
+            "projectName": "temp_f691c82"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - exp_1",
+            "request": "launch",
+            "mainClass": "exp_1",
+            "projectName": "temp_f691c82"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "temp_f691c82"
+        }
+    ]
+}

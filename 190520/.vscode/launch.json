@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyCaculator",
+            "request": "launch",
+            "mainClass": "MyCaculator",
+            "projectName": "190520_64b6b659"
+        }
+    ]
+}
